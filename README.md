@@ -36,8 +36,8 @@
           - check if user can add adress
           - check if user can add paymen method
 
-During testing, the browser console is monitored for errors.
+During the testing the browser console is monitored for errors.
 		
-Testing is performed (based on requirement) on latest versions of Chrome, Firefox, Microsoft Edge (on Windows), Safari (on Mac), Mobile and Tablet (Browserstack real devices or on physical devices - if available).
+Testing is performed on latest versions of Chrome, Firefox, Microsoft Edge (on Windows), Safari (on Mac), Mobile and Tablet (Browserstack real devices or on physical devices - if available).
 
 Go to [Issues](https://github.com/peter-angelov/ls/issues) to see the submited bugs and suggestions.
