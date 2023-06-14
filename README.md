@@ -23,7 +23,7 @@
          - click on order button leads to inforation page (with order details)
          - confirmation email is sent - check email layour and information 
          - user can place an order with or without a profile (if presented as an option)
-       - Login:
+      - Login:
           - check login form (visual and functional)
           - check if Password reset link is presented
 	f) Password reset:
