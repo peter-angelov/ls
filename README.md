@@ -26,15 +26,15 @@
       - Login:
           - check login form (visual and functional)
           - check if Password reset link is presented
-	f) Password reset:
-		- on email enter and email is sent (if email is presented on website database)
-		- email contains a password reset link; on click leads to page, where user can enter new passoword; on save user it taken to user profile
-	j) Create new profile:
-		- form field validation - type of accepted symbols and error messages
-		- check if after registration user is taken to the user profile section
-		- check if confirmation message is received
-		- check if user can add adress
-		- check if user can add paymen method
+      - Password reset:
+          - on email enter and email is sent (if email is presented on website database)
+          - email contains a password reset link; on click leads to page, where user can enter new passoword; on save user it taken to user profile
+      - Create new profile:
+          - form field validation - type of accepted symbols and error messages
+          - check if after registration user is taken to the user profile section
+          - check if confirmation message is received
+          - check if user can add adress
+          - check if user can add paymen method
 
 During testing, the browser console is monitored for errors.
 		
